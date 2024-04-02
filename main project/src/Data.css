@@ -1,0 +1,44 @@
+ .main{
+    position: relative;
+    left: 10%;
+    top: 5%;
+    width: 80%;
+}
+.table{
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    padding: 5px;
+    text-align: center;
+}
+td{
+    padding: 5px;
+}
+.btn{
+    margin-bottom: -5px;
+} 
+.data_add Form{
+    padding: 15px;
+} 
+.cross_icon{
+    position: relative;
+    left: 468px;
+    top: 5px;
+    cursor: pointer;
+}
+.act{
+    margin-left: 5px;
+    border: 0.2px solid black
+}
+.btn_del{
+    background-color: red;
+    color: white;
+}
+.btn_edit{
+    background-color: yellow;
+}
+.btn_view{
+    background-color: green;
+    color: white;
+}

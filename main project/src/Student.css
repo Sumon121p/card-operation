@@ -1,0 +1,28 @@
+
+.form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aqua;
+    height: 200px;
+    width: 400px;
+    padding: 10px;
+    border: 0.1px solid black;
+}
+
+.form label{
+    font-size: large;
+    margin-right: 10px;
+}
+.form input{
+    height: 30px;
+    width: 250px;
+    border: none;
+}
+.form button{
+    margin-top: 30px;
+    padding: 5px 10px;
+    position: relative;
+    left: 40%;
+}

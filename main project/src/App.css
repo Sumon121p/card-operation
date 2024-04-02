@@ -1,0 +1,13 @@
+.nav{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100vw;
+  height: 5vh;
+  background-color: #5356FF;
+}
+.link{
+  margin-left: 15px;
+  text-decoration: none;
+  color: #DFF5FF;
+}
